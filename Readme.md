@@ -1,3 +1,8 @@
+-=(PDP2011_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p.
+
+___
 # PDP2011 port to MiSTer FPGA
 ## PDP2011 Overview
  This is a MiSTer port of [PDP2011](https://pdp2011.sytse.net) – a re-creation of the well known series of PDP-11 computer systems in VHDL. Everything that is needed to run a PDP-11 system is included; you can run a complete Unibus PDP-11 system with console, disks and other peripherals on a simple low cost FPGA development board. The original V5-V7 versions of Unix, BSD 2.11, and the original DEC operating systems for the PDP-11 work.
