@@ -2,6 +2,7 @@
 
 Tested: Working Video 720p, 1080p.
 
+Dev notes: Swapped clocks
 ___
 # PDP2011 port to MiSTer FPGA
 ## PDP2011 Overview
